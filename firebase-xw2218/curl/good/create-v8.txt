@@ -1,0 +1,10 @@
+{
+  "name": "projects/xw2218-dash/databases/(default)/documents/xw2218/v8",
+  "fields": {
+    "username": {
+      "stringValue": "curl"
+    }
+  },
+  "createTime": "2022-09-26T07:35:00.676049Z",
+  "updateTime": "2022-09-26T07:35:00.676049Z"
+}

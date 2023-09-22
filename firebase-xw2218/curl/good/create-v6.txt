@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": 401,
+    "message": "Missing or invalid authentication.",
+    "status": "UNAUTHENTICATED"
+  }
+}

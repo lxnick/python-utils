@@ -1,0 +1,15 @@
+
+
+https://firestore.googleapis.com/v1/projects/YOUR_PROJECT_ID/databases/(default)/documents/cities/LA
+
+
+https://firebase.google.com/docs/reference/rest/auth/
+
+https://firestore.googleapis.com/v1/projects/your-project-name/databases/(default)/documents/your-collection-name?key={Your Web API Key}
+
+
+https://stackoverflow.com/questions/53228777/firestore-rest-api-call-insert-data
+
+https://cloud.google.com/firestore/docs/reference/rest
+
+

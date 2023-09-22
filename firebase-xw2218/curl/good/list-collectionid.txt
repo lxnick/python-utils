@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": 400,
+    "message": "Document parent name \"projects/xw2218-dash/databases/(default)/documents/xw2218\" lacks \"/\" at index 57.",
+    "status": "INVALID_ARGUMENT"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "projects/xw2218-dash/databases/(default)/documents/xw2218/v1",
+  "createTime": "2022-09-19T06:26:04.867468Z",
+  "updateTime": "2022-09-19T06:26:04.867468Z"
+}
